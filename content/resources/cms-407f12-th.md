@@ -19,6 +19,7 @@ image_metadata:
   image-alt: A photograph of a "glass disc," an early type of audio recording, made
     in the 1880s.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Glass Disc
 uid: 8df3ca12-892e-025f-2779-1155dadde2c5

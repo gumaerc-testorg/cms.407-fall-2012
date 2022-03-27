@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f42ec871-7e44-ef73-abe8-6ef58bce7681
 ---
@@ -55,22 +56,175 @@ You will be required to submit three 6-page papers + one revision. The revision 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Papers (3 + 1 revision) | 40% |
-| Discussion directing | 30% |
-| Participation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers (3 + 1 revision)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion directing
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Schedule
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1–3 | Hearing and Listening in Modernity | &nbsp; |
-| 4–6 | Soundscapes: Prehistorical, Architectural, Urban, and Industrial | &nbsp; |
-| 7–10 | Aural Media Communities I: Stethoscope through Phonograph | Session 9: First paper due |
-| 11–12 | Speech, Sound Media, and the Talkies | &nbsp; |
-| 13–17 | Aural Media Communities II: Telephone, Radio, and Tape |  {{< br >}}{{< br >}} Session 14: Guest Lecture with Prof. A. David Wunsch {{< br >}}{{< br >}} Session 17: Second paper due {{< br >}}{{< br >}}  |
-| 18–20 | Noise, Silence, and Sampling, from Avant-Garde to Mainstream | &nbsp; |
-| 21–22 | Global Sonic Cultures | Session 22: Guest Lecture with Prof. Stefan Helmreich |
-| 23–25 | Digital Audio, Piracy, and Portability |  {{< br >}}{{< br >}} Session 23: Revision due {{< br >}}{{< br >}} Session 25: Third paper due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–3
+{{< tdclose >}}
+{{< tdopen >}}
+Hearing and Listening in Modernity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–6
+{{< tdclose >}}
+{{< tdopen >}}
+Soundscapes: Prehistorical, Architectural, Urban, and Industrial
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–10
+{{< tdclose >}}
+{{< tdopen >}}
+Aural Media Communities I: Stethoscope through Phonograph
+{{< tdclose >}}
+{{< tdopen >}}
+Session 9: First paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11–12
+{{< tdclose >}}
+{{< tdopen >}}
+Speech, Sound Media, and the Talkies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13–17
+{{< tdclose >}}
+{{< tdopen >}}
+Aural Media Communities II: Telephone, Radio, and Tape
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 14: Guest Lecture with Prof. A. David Wunsch
+
+Session 17: Second paper due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18–20
+{{< tdclose >}}
+{{< tdopen >}}
+Noise, Silence, and Sampling, from Avant-Garde to Mainstream
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21–22
+{{< tdclose >}}
+{{< tdopen >}}
+Global Sonic Cultures
+{{< tdclose >}}
+{{< tdopen >}}
+Session 22: Guest Lecture with Prof. Stefan Helmreich
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23–25
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Audio, Piracy, and Portability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 23: Revision due
+
+Session 25: Third paper due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
