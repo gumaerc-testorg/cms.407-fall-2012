@@ -19,10 +19,10 @@ image_metadata:
   image-alt: A photograph of a "glass disc," an early type of audio recording, made
     in the 1880s.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Glass Disc
 uid: 8df3ca12-892e-025f-2779-1155dadde2c5
 ---
 This is a glass disc recording, produced photographically on March 11, 1885. This disc contains a male voice saying names, the recording date, and "Mary had a little lamb" repeated twice. A video including transcription is available courtesy of SmithsonianAmHistory on Youtube. (Photo courtesy of Richard Strauss, Smithsonian. This image is public domain.)
-

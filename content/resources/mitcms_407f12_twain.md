@@ -6,6 +6,7 @@ file: /courses/cms-407-media-and-methods-sound-fall-2012/bd4f1173294daee1880bcc6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A Telephonic Conversation
 uid: bd4f1173-294d-aee1-880b-cc654b108afa
 ---
 Full text of Mark Twain's "A Telephonic Conversation" from Atlantic Monthly 45 (1880): 841-43.
-
