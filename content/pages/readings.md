@@ -186,7 +186,7 @@ Picker, John. "Aural Anxieties and the Advent of Modernity." In _The Victorian W
 {{< tdopen >}}
 
 
-Edison, Thomas. "[The Phonograph and Its Future." (PDF)]({{< baseurl >}}/resources/mitcms_407f12_edison) _North American Review_ 126 (1878): 527-536.
+Edison, Thomas. "{{% resource_link "2cb35e07-2d82-6299-e504-d63e9b12d228" "The Phonograph and Its Future.\" (PDF)" %}} _North American Review_ 126 (1878): 527-536.
 
 \[SSR\] Kittler, Friedrich. "Gramophone." pp. 234–47.
 
@@ -254,7 +254,7 @@ grummorsum. "Pygmalion." May 7, 2010. YouTube. Accessed April 17, 2013. [http://
 {{< tdopen >}}
 
 
-Twain, Mark. "[A Telephonic Conversation." (PDF)]({{< baseurl >}}/resources/mitcms_407f12_twain) _Atlantic Monthly_ 45 (1880): 841-43.
+Twain, Mark. "{{% resource_link "bd4f1173-294d-aee1-880b-cc654b108afa" "A Telephonic Conversation.\" (PDF)" %}} _Atlantic Monthly_ 45 (1880): 841-43.
 
 Kafka, Franz. "My Neighbor." _The Complete Stories_. Edited by Nahum N. Glatzer. Schocken Books, 1995. pp. 424-25. ISBN: 9780805210552.
 
