@@ -27,7 +27,9 @@
   },
   "course_title": "Media and Methods: Sound",
   "course_description": "This course explores the ways in which humans experience the realm of sound and how perceptions and technologies of sound emerge from cultural, economic, and historical worlds. It examines how environmental, linguistic, and musical sounds are construed cross-culturally. It describes the rise of telephony, architectural acoustics, sound recording, and the globalized travel of these technologies. Students address questions of ownership, property, authorship, and copyright in the age of digital file sharing. There is a particular focus on how the sound/noise boundary is imagined, created and modeled across diverse sociocultural and scientific contexts. Auditory examples will be provided. Instruction and practice in written and oral communication provided. At MIT, this course is limited to 20 students.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "CMS.407",
   "course_image_thumbnail": {
@@ -37,6 +39,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "5adc385f-7bf2-4af3-ac3e-bb728b7daeba",
+  "site_uid": "dead1ed1-5691-4ba5-9dc3-393e602b0878",
+  "site_short_id": "cms.407-fall-2012",
   "title": "Course Metadata"
 }
