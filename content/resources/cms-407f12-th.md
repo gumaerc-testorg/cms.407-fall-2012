@@ -11,10 +11,10 @@ file_type: image/jpeg
 image_metadata:
   caption: This is a glass disc recording, produced photographically on March 11,
     1885. This disc contains a male voice saying names, the recording date, and "Mary
-    had a little lamb" repeated twice. {{% resource_link "9888e543-1d19-496e-b402-b6a77ae30936"
-    "A video including transcription is available courtesy of SmithsonianAmHistory
-    on Youtube" %}}. (Photo courtesy of Richard Strauss, {{% resource_link "b67bf480-77af-4b52-94b0-40fbc9cbd5be"
-    "Smithsonian" %}}. This image is public domain.)
+    had a little lamb" repeated twice. [A video including transcription is available
+    courtesy of SmithsonianAmHistory on Youtube](http://youtu.be/Yv1emaQFg2w). (Photo
+    courtesy of Richard Strauss, [Smithsonian](http://newsdesk.si.edu/photos/volta-record-3-0).
+    This image is public domain.)
   credit: The photograph is of an item contained in their collections, and is in the
     public domain.
   image-alt: A photograph of a "glass disc," an early type of audio recording, made
