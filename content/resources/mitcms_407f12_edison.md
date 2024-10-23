@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Full text of Thomas Edison''s. "The Phonograph and Its Future" from
   North American Review 126 (1878): 527-536.'
-file: /courses/cms-407-media-and-methods-sound-fall-2012/2cb35e072d826299e504d63e9b12d228_MITCMS_407F12_Edison.pdf
+file: /ol-ocw-studio-app/courses/cms-407-media-and-methods-sound-fall-2012/2cb35e072d826299e504d63e9b12d228_MITCMS_407F12_Edison.pdf
 file_size: 208861
 file_type: application/pdf
 learning_resource_types:
