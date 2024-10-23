@@ -5,7 +5,7 @@ description: This is a glass disc recording, produced photographically on March 
   had a little lamb" repeated twice. A video including transcription is available
   courtesy of SmithsonianAmHistory on Youtube. (Photo courtesy of Richard Strauss,
   Smithsonian. This image is public domain.)
-file: /courses/cms-407-media-and-methods-sound-fall-2012/8df3ca12892e025f27791155dadde2c5_cms-407f12-th.jpg
+file: /ol-ocw-studio-app/courses/cms-407-media-and-methods-sound-fall-2012/8df3ca12892e025f27791155dadde2c5_cms-407f12-th.jpg
 file_size: 11861
 file_type: image/jpeg
 image_metadata:
